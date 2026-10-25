@@ -1,31 +1,17 @@
-= OGC API - Common - Part 1: Core
+= OGC API - Common - Part 1
 :doctype: standard
-:encoding: utf-8
-:lang: en
-:status: approved
-:committee: technical
-:draft: 3.0
-:external-id: http://www.opengis.net/doc/is/ogcapi-common-1/1.0
-:docnumber: 19-072
-:received-date: 2021-08-23
-:issued-date: 2022-02-02
-:published-date: YYYY-MM-DD
-:fullname: Charles Heazel
 :docsubtype: implementation
-:keywords: ogcdoc, OGC document, geographic information, spatial data, API, json, html, OpenAPI, REST, Common
-:submitting-organizations: Ecere Corporation; Heazeltech LLC; Hexagon; Interactive Instruments GmbH; U.K. Met Office; Universitat Autònoma de Barcelona (CREAF); U.S. Army Geospatial Center; U.S. Geological Survey; U.S. National Aeronautics and Space Administration (NASA); U.S. National Geospatial-Intelligence Agency (NGA)
+:edition: 1.0
+:language: en
+:status: draft
+:committee: technical
+:docnumber: 19-072
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
 :mn-document-class: ogc
-:mn-output-extensions: xml,html,doc,pdf
-:local-cache-only:
-:data-uri-image:
-:pdf-uri: ./document.pdf
-:xml-uri: ./document.xml
-:doc-uri: ./document.doc
-:edition: 1.0.0
 
-////
-Make sure to complete each included document
-////
 include::clause_1_front_material.adoc[]
 
 include::clause_2_scope.adoc[]
