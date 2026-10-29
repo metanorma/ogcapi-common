@@ -5,3 +5,4 @@ relaton/
 iev/
 *.err.html
 *.presentation.xml
+Gemfile.lock
